@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trycode_test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8607b737cae2b5b1fae3c2e09a050c0051ff7ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("trycode_test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trycode_test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
